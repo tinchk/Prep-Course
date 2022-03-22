@@ -168,4 +168,29 @@ La terminal te preguntará tu usuario y contraseña (En el caso de la contraseñ
     cccc682..283b9dd  master -> master
 ```
 
-¡Felicitaciones, acabas de subir tu primer git commit!
+¡Felicitaciones, acabas de subir tu primer git commit
+
+Test
+
+Explicación niño de 12 años;
+
+Variables: Es/son una forma de guardar un valor que después 
+           se va a usar para darle forma al código del 
+           programa
+
+String: Es una línea de expresiones, y se usa 
+        comunmente para mostar mensajes al usuario          
+
+ Funciones: Es una forma de realizar una acción dentro del 
+            código para que "funcione" de una u otra manera,dándole Argumentos
+            que si se cumplen devolverán o realizarán esa acción como "return"
+            De lo contrario no realizarán la acción requerida, descripta en la 
+            "Función"
+
+Declaraciones: Una declaración, es una manera de hacer una distinción o condicionar una
+               acción dentro del programa, cuando yo le digo"if", o sea "si" quiero que se realice
+               esa acción con un "Argumento" que si se cumple será verdader o sea "true" de lo contrario me dará "false"
+
+
+Booleanos: Usan dos valores simples 0 y 1 como el código de igual nombre, o sea "verdadero" o "falso"
+           "true" o "false"  
